@@ -1,1 +1,1 @@
-demo - simple edit trigger CI/CD
+demo - simple edit trigger CI/CD pipeline github actions
